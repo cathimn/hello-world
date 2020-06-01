@@ -1,3 +1,3 @@
 ## hello, world~
 
-:cat:himn
+from :cat:himn
