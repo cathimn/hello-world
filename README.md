@@ -1,1 +1,1 @@
-from :cat: himn
+:smiley_cat:
